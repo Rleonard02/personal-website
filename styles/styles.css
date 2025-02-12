@@ -226,12 +226,14 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-right: 18rem;
-  
+  padding-right: 15rem;
+  /* background-color: red; */
 }
 .header-content .right-header .name {
   font-size: 3rem;
   margin-bottom: 10%;
+  /* background-color: blue; */
+  
 }
 .header-content .right-header .name span {
   color: var(--color-secondary);
